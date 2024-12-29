@@ -1,0 +1,35 @@
+.Footer{
+    display: flex;
+    flex-direction: row;
+    font-style: oblique;
+    font-weight: bold;
+justify-content: space-between;
+background-color: rgb(188, 207, 14);
+}
+.Badge{
+    background-color: red;
+}
+
+.Footer{
+ display:flex;
+}
+
+
+@media screen and (max-width: 1040px) {
+    .Footer{
+        flex-direction: column;
+        font-style: oblique;
+        font-weight: bold;
+    justify-content: space-between;
+    background-color: rgb(188, 207, 14);
+    padding: 2rem;
+    }
+
+.Footer-abt{
+    margin-top: 4rem;
+}
+.Badge{
+    background-color: red;
+}
+
+}
