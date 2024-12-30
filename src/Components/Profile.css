@@ -1,0 +1,19 @@
+.card img{
+    width: 50%;
+    border-radius: 44rem;
+    justify-items: center;
+    display: grid;
+    margin-left: 25%;
+    margin-right:25%;
+
+    
+}
+
+.cardi{
+    justify-content: center;
+    align-items: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+

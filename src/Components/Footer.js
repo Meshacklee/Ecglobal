@@ -5,16 +5,17 @@ const footer = () => {
   return (
     <div className='footer'>
         <div className='footer-addres'>
-          <h3><span className='Badge'>Address :</span> 13 Umuode Aba Portharcourt Road</h3>
-          <h4>+234 7067 180 495</h4>
-          <h4>Deleecrest@gmail.com</h4>
+          <h3><span className='Badge'>Address :</span> Kucukbakkalkoy mah. selv </h3>
+          <h3>Lsk No. 4c Kapi No: 20 ATA EH R/ Istanbul</h3>
+          <h4>+(90) 505 277 5435 (Turkiye)</h4>
+          <h4>admin@ecglobalpetrol.com</h4>
         </div>
 
 
         <div className='footer-abt'>
           <h1>About the Company</h1>
-          <p><span className='Badge'>Deleecrest</span> is a Digital Service Provider 
-          <br></br>We Design, print and offer Web Developmeent Services </p>
+          <p><span className='Badge'>ECGLOBALPETROL OIL & GAS</span> is an oil and gas
+          <br></br> exploration and production company with a focus on <br></br>finding and producing oil in sub-Saharan Africa  </p>
 
         </div>
        

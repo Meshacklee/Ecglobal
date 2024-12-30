@@ -16,22 +16,22 @@ const Navbar = () => {
           <a className="nav-link " aria-current="page" href="./">Home</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="./Products">Profiles</a>
+          <a className="nav-link" href="./Profile">Profiles</a>
         </li>
         <li className="nav-item">
           <a className="nav-link" href="./About">About-US</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="./About"></a>
+          <a className="nav-link" href="./About">Petrol Station</a>
         </li>
         <li className="nav-item dropdown">
-          <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a className="nav-link dropdown-toggle" href="/Products" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Products
           </a>
           <ul className="dropdown-menu">
-            <li><a className="dropdown-item" href="#">Petrol-Station</a></li>
-            <li><a className="dropdown-item" href="#">Real-Estate</a></li>
-            <li><a className="dropdown-item" href="#">Others</a></li>
+            <li><a className="dropdown-item" href="/Products">Petrol-Station</a></li>
+            <li><a className="dropdown-item" href="/Products">Real-Estate</a></li>
+            <li><a className="dropdown-item" href="/Products">Others</a></li>
           </ul>
 
         </li>
