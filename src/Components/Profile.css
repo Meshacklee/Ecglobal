@@ -1,6 +1,6 @@
 .card img{
     width: 50%;
-    border-radius: 44rem;
+    border-radius: 80rem;
     justify-items: center;
     display: grid;
     margin-left: 25%;
@@ -16,4 +16,5 @@
     margin-right: 10%;
     
 }
+
 

@@ -8,10 +8,9 @@ const Profile = () => {
       <Navbar />
     <div className='cardi'>
         <div class="card">
-  <img src="./Asset/1.jpg" className="card-img-top" alt="..."/>
+  <img src="./Asset/logooo.jpg" className="card-img-top" alt="..."/>
   <div class="card-body">
-    <p class="card-text">Dr. Richy  Ekson - Williams. (Executive Chairman) He is a private investor with over 30years of investment experience in Africa and Eastern Europe with his medical training he is exposed to a lot of people, organization and have a very good background on Health. He is the founder of Eke Ventures Group, a private investment company with investments across many sectors including infrastructural and resource sectors, mining and exploration and he is a co-founder and 
-      Director of the following companies Eksson concept limited, a private resource investment and Development Company.</p>
+    <p class="card-text">Mr. Eke Chika is the CEO managing director of EC Global oil Petrol</p>
   </div>
 </div>
 
@@ -23,6 +22,17 @@ const Profile = () => {
       by a Korean for a period of two years, and also operational manager with Tomahass Engineering Company for two years.</p>
   </div>
 </div>
+
+
+<div class="card">
+  <img src="./Asset/2666.jpg" className="card-img-top" alt="..."/>
+  <div class="card-body">
+    <p class="card-text">ANITAESI
+DIRECTOR OF ADMIN
+A graduate of business administration and MBA in marketing, she has worked with many companies including Efe Finance Holdings, First Bank of Nigeria Plc and Tedway Nigeria Limited before moving over to Ceneni Oil & Gas Company Limted.</p>
+  </div>
+</div>
+
     </div>
 
 <Footer />

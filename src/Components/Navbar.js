@@ -6,7 +6,7 @@ const Navbar = () => {
     <div className='container'>
       <nav className="navbar navbar-expand-lg">
   <div className="container-fluid">
-    <a className="navbar-brand" href="./"><span className='badge fs-1'>ECGLOBAL-PETROL</span></a>
+    <a className="navbar-brand" href="./"><span className='badge fs-1'>ECGLOBAL-PETROL <img src ="./Asset/20250102_135325.png" alt='ECH'/> </span></a>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>
