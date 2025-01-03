@@ -39,18 +39,7 @@ A graduate of business administration and MBA in marketing, she has worked with 
 
 
 <div class="card">
-  <img src="./Asset/2666.jpg" className="card-img-top" alt="..."/>
-  <div class="card-body">
-    <p class="card-text">ANITAESI
-DIRECTOR OF ADMIN
-A graduate of business administration and MBA in marketing, she has worked with many companies including Efe Finance Holdings, First Bank of Nigeria Plc and Tedway Nigeria Limited before moving over to Ec Global petrol Oil & Gas Company Limted.</p>
-  </div>
-</div>
-
-
-
-<div class="card">
-  <img src="./Asset/2666.jpg" className="card-img-top" alt="..."/>
+  <img src="./Asset/law-firm-1.jpg" className="card-img-top" alt="..."/>
   <div class="card-body">
     <p class="card-text">BARR. AUSTIN AKAEGBU
 DIRECTOR LEGAL AFFAIRS.
@@ -71,6 +60,8 @@ He has particular expertise in:
   <li>Intellectual and Industrial Property Law</li>
   <ol>etc</ol>
 </ul>
+
+AUSTIN advises lenders, borrowers, foreign investors and other third parties in the business world. He is retained by many commercial organizations. He also advises companies on their continuing obligations and corporate governance issues. He has severally worked and presently works with a team of lawyers and forensic ﬁnancial experts and fraud examiners who major in reconciliation, establishment and recovery of excess and illegal bank charges on loan/overdraft facilities and is currently in court over many of such cases.
 .</p>
   </div>
 </div>
