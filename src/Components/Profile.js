@@ -71,8 +71,6 @@ He has particular expertise in:
   <li>Intellectual and Industrial Property Law</li>
   <ol>etc</ol>
 </ul>
-
-AUSTIN advises lenders, borrowers, foreign investors and other third parties in the business world. He is retained by many commercial organizations. He also advises companies on their continuing obligations and corporate governance issues. He has severally worked and presently works with a team of lawyers and forensic ﬁnancial experts and fraud examiners who major in reconciliation, establishment and recovery of excess and illegal bank charges on loan/overdraft facilities and is currently in court over many of such cases.
 .</p>
   </div>
 </div>
