@@ -28,10 +28,10 @@ const Article = () => {
     <div data-bs-spy="scroll" data-bs-target="#navbar-example3" data-bs-smooth-scroll="true" class="scrollspy-example-2" tabindex="0">
     <div id="item-1">
         <h4>ECGLOBAL PETROL EXPLAINED</h4>
-        <p> Eke Ventures  is an oil and gas exploration and production company with a focus on ﬁnding and producing oil in sub-Saharan Africa
+        <p> EC GLOBAL PETROL is an oil and gas exploration and production company with a focus on ﬁnding and producing oil in sub-Saharan Africa
 Our strategy is to explore and develop high-potential exploration and production assets in Africa, and form strategic partnerships with national oil companies, indigenous local partners and other independent oil companies. We look to build and operate a balanced portfolio of assets with manageable risks, early cash ﬂow and bookable reserves and resources.
 We actively manage our investments and on-going operations by limiting capital exposure and forming strategic partnerships and alliances where we operate. We believe that a strong technical and operational team with local knowledge is key to our success. We actively manage and prioritize assets in our portfolio, seek economic efﬁciency in our operations and farm-down assets when appropriate to maximize investment value.
-At Dr Eke Ventures Oil & Gas, we offer a host of quality services ranging from vessel management to general import and exports.
+At EC GLOBAL Oil & Gas, we offer a host of quality services ranging from vessel management to general import and exports.
 </p>
       </div>
       <div id="item-1">
@@ -47,13 +47,13 @@ At Dr Eke Ventures Oil & Gas, we offer a host of quality services ranging from v
       </div>
       <div id="item-1-1">
         <h5>VESSEL MANAGEMENT</h5>
-        <p>One of our peering services we offer at Dr. Eke Ventures  Oil & Gas Limited is our world class, excellent and safe vessel management services provided by our top well-trained seamen. Our seamen are all well-trained in world approved institutions and possess outstanding leadership, team working and personnel attitude focused on efﬁcient service delivery and productivity in vessel management.
+        <p>One of our peering services we offer at EC GLOBAL  Oil & Gas Limited is our world class, excellent and safe vessel management services provided by our top well-trained seamen. Our seamen are all well-trained in world approved institutions and possess outstanding leadership, team working and personnel attitude focused on efﬁcient service delivery and productivity in vessel management.
 We also sales vessel spare parts to Ship owners and managers can easily buy genuine vessel spares and equipment using our channel and experience to make the best choices. Make smarter purchasing decisions with access to our comprehensive databases and tools to purchase hard to ﬁnd vessel parts.
 </p>
       </div>
       <div id="item-1-2">
         <h5>ENERGY, OIL AND GAS</h5>
-        <p>Clean, affordable and quality energy production with oil and gas exploration and production is the core objection of Dr. Eke Ventures  Oil & Gas. And we plan on achieving that through excellent exploring and producing high-potential ﬁelds in Africa and forming strategic partnership with international and national oil companies.
+        <p>Clean, affordable and quality energy production with oil and gas exploration and production is the core objection of EC GLOBAL  Oil & Gas. And we plan on achieving that through excellent exploring and producing high-potential ﬁelds in Africa and forming strategic partnership with international and national oil companies.
         Out team comprises subsurface and surface technical specialist along with economists who are able to provide a robust fully integrated solution for any oil and gas exploration or development.      
         </p>
         </div>
@@ -74,9 +74,9 @@ Real estate
         </p>
       </div>
       <div id="item-3-1">
-        <h5> Dr. Eke Ventures  REAL ESTATE</h5>
-        <p>We have a chain of real estate professionals at Dr. Eke Ventures  who work hard to offer peerless new age real estate services in Nigeria and across Africa.
-At Dr. Eke Ventures  , we go above and beyond to deliver quality construction services. Our success over the years owes to our employee’s dedication to team-work, work drive, excellent work and customer service that exceeds expectation.
+        <h5> EC GLOBAL  REAL ESTATE</h5>
+        <p>We have a chain of real estate professionals at EC GLOBAL  who work hard to offer peerless new age real estate services in Nigeria and across Africa.
+At EC GLOBAL  , we go above and beyond to deliver quality construction services. Our success over the years owes to our employee’s dedication to team-work, work drive, excellent work and customer service that exceeds expectation.
 We are well placed to help your company operate more effectively. We plan and design the installation, least, build (road construction, hospital, church and schools), sells (lands and property) and source the necessary material and built for client and owners.
 
 </p>
